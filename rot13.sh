@@ -6,6 +6,10 @@ echo "this is the table"
 
 sleep 3 
 echo "------------------------------------------------------"
+figlet "ilyaso"
+sleep 2
+
+
 echo    "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z"
 echo "------------------------------------------------------"
 echo "S1 B C D E F G H I J K L M N O P Q R S T U V W X Y Z A"
