@@ -1,10 +1,11 @@
 #!/bin/bash
+
 figlet "CRYPTOGRAPHY"
 
 echo "//(2×13) it is called a symmetric cipher and given the name ROT13"
 clear 
 echo "this is the table"
-echo "BY:ILYAS"
+
 sleep 3 
 echo "------------------------------------------------------"
 echo    "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z"
