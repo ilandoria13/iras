@@ -60,11 +60,10 @@ echo "-------------------------------------"
 sleep 3
 clear
 
-echo"Do you wish to convert password to rot13?(Y/N) :"
 
 
 figlet "convert password to rot13" 
-echo -n "Enter the password that you want to decrypt:"
+echo -n "Enter the password that you want to decrypt :"
 read password
 echo "-------------------------------------"
 echo "$password" | rot13
