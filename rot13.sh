@@ -1,10 +1,7 @@
 #!/bin/bash
-
-toilet -f mono12 -F metal ILYASO
-clear
 figlet "CRYPTOGRAPHY"
 echo "//(2×13) it is called a symmetric cipher and given the name ROT13"
-clear 
+toilet -f mono12 -F metal ILYASO
 echo "this is the table"
 
 sleep 3 
