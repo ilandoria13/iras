@@ -1,7 +1,7 @@
 #!/bin/bash
 figlet "CRYPTOGRAPHY"
 
-echo "//(2×13) it is called a symmetric cipher and given the name ROT13. Thi>
+echo "//(2×13) it is called a symmetric cipher and given the name ROT13"
 clear 
 echo "this is the table"
 echo "BY:ILYAS"
