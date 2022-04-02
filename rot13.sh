@@ -60,12 +60,13 @@ echo "-------------------------------------"
 sleep 3
 clear
 
-
-
 figlet "convert password to rot13" 
+
 echo -n "Enter the password that you want to decrypt :"
 read password
+
 echo "-------------------------------------"
 echo "$password" | rot13
 echo "-------------------------------------"
+
 sleep 3 
