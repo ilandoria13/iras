@@ -1,4 +1,4 @@
-# I R 4 S
+# CHIF RA
 ROT13 converter
 
 
